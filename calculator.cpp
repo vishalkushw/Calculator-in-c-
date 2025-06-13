@@ -37,7 +37,7 @@ int main()
         break;
     }
     case 5: {
-        cout << " Thank you try again"<<endl;
+        cout << " Thank you try Again"<<endl;
         break;
     }
     default:
